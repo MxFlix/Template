@@ -10,3 +10,7 @@ the `DJANGORENAME` folder!
 # Python Webpack Boilerplate
 
 https://github.com/AccordBox/python-webpack-boilerplate/
+
+# tailwindcss (^3.3)
+
+[Documentation](https://tailwindcss.com/docs/installation)
