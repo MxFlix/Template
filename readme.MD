@@ -5,3 +5,6 @@ work and just create this template with all I need in the future.
 [Documentation](https://docs.djangoproject.com/en/4.2/)\
 You need to rename all instances of `DJANGORENAME` to whatever your project should be called. Don't forget
 the `DJANGORENAME` folder!
+
+# Python Webpack Boilerplate
+https://github.com/AccordBox/python-webpack-boilerplate/
