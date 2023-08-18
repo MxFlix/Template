@@ -3,7 +3,7 @@ const pwd = process.env.PWD;
 
 // We can add current project paths here
 const projectPaths = [
-  Path.join(pwd, "../PATH/TO/TEMPLATES/**/*.html"),
+  Path.join(pwd, "../APPRENAME/templates/**/*.html"),
   // add js file paths if you need
 ];
 
